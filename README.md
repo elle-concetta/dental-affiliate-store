@@ -1,6 +1,6 @@
 # BrightSmile Picks
 
-A curated dental product affiliate store built with React + Vite. Inspired by the editorial aesthetic of Function of Beauty — warm cream tones, Space Grotesk headings, and clean minimal product cards.
+A dental product affiliate store built with React + Vite.
 
 **Live preview path:** `/dental-store/`
 
@@ -8,7 +8,7 @@ A curated dental product affiliate store built with React + Vite. Inspired by th
 
 ## What it does
 
-BrightSmile Picks displays a hand-curated collection of dental products with Amazon affiliate links. Visitors can filter by category, browse featured picks, and click through to purchase on Amazon. Every sale earns a commission via the Amazon Associates program.
+Displays collection of dental products with Amazon affiliate links. Visitors can filter by category, browse featured picks, and click through to purchase on Amazon.
 
 ---
 
